@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec0891d4-e78b-4f76-94d5-25026fb4a528" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/GeneraljparelationsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/controller/AddressController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/controller/FacultyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/controller/GroupController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/controller/SubjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/controller/UniversityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/entity/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/entity/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/entity/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/entity/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/manager/AddressManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/manager/FacultyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/manager/GroupManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/manager/StudentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/manager/SubjectManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/manager/UniversityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/repository/AddressRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/repository/FacultyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/repository/GroupRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/repository/SubjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/repository/UniversityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/service/AddressService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/service/FacultyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/service/GroupService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/service/SubjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/changeside/project1/service/UniversityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/changeside/project1/Project1ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/GeneraljparelationsApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/controller/AddressController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/controller/FacultyController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/controller/GroupController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/controller/SubjectController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/controller/UniversityController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/entity/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/entity/Faculty.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/entity/Group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/entity/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/entity/University.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/manager/AddressManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/manager/FacultyManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/manager/GroupManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/manager/StudentManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/manager/SubjectManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/manager/UniversityManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/repository/AddressRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/repository/FacultyRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/repository/GroupRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/repository/StudentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/repository/SubjectRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/repository/UniversityRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/service/AddressService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/service/FacultyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/service/GroupService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/service/SubjectService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/changeside/project1/service/UniversityService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2WqoEvDztWx3GkoFJeJ6hdCijsG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.GeneraljparelationsApplication.executor": "Run",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/project1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "spring.configuration.checksum": "5a980a096572df65974d508fe794dbd8",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.changeside.project1.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="GeneraljparelationsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="generalJPARelations" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.changeside.project1.GeneraljparelationsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-f644763e9732-1e16d6ec" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec0891d4-e78b-4f76-94d5-25026fb4a528" name="Changes" comment="" />
+      <created>1697469364243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697469364243</updated>
+      <workItem from="1697469365786" duration="4959000" />
+      <workItem from="1697641711242" duration="4303000" />
+      <workItem from="1697799396794" duration="4109000" />
+      <workItem from="1697804786893" duration="1500000" />
+      <workItem from="1697807052786" duration="2004000" />
+      <workItem from="1697813987005" duration="8393000" />
+      <workItem from="1698047067987" duration="1024000" />
+      <workItem from="1698053498051" duration="654000" />
+      <workItem from="1698054554272" duration="51000" />
+      <workItem from="1698067204173" duration="667000" />
+      <workItem from="1698075760702" duration="2717000" />
+      <workItem from="1698082487175" duration="1000" />
+      <workItem from="1698082684877" duration="1704000" />
+      <workItem from="1698226541239" duration="363000" />
+      <workItem from="1698245775023" duration="875000" />
+      <workItem from="1698247324915" duration="11000" />
+      <workItem from="1698394470566" duration="84000" />
+      <workItem from="1698394586445" duration="615000" />
+      <workItem from="1698395232505" duration="770000" />
+      <workItem from="1698420101046" duration="23000" />
+      <workItem from="1698429138022" duration="300000" />
+      <workItem from="1698855107749" duration="1472000" />
+      <workItem from="1698857755644" duration="78000" />
+      <workItem from="1704378944078" duration="474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
